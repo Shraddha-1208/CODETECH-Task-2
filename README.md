@@ -21,7 +21,7 @@ Key Activities:
 - Model Building:Prepare features (X) and target (y), split the data into training and testing sets, train a linear regression model, and evaluate it using the R-squared value while printing the model's intercept 
   and coefficients.
 
-Dataset:
+Dataset: https://github.com/Shraddha-1208/CODETECH-Task-2/blob/main/new.csv
 
 Technologies Used:
 - Python: The primary programming language for data analysis.
